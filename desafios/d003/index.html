@@ -5,26 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Antes e depois</title>
-    <style>
-        body{
-            font: 13pt Arial;
-        }
-        button{
-            font: 13pt Arial;
-            padding: 20px;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Antes e depois</h1>
     <button onclick="antesdepois()">Antecessor e Sucessor</button>
-    <script>
-        function antesdepois(){
-            var num = Number(window.prompt('Digite um número inteiro qualquer: '))
-            var sucessor = num + 1
-            var antecessor = num - 1
-            window.alert(`O antecessor do número ${num} é ${antecessor}. \nO sucessor do número ${num} é ${sucessor}.`)
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
