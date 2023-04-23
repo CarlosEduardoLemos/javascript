@@ -1,7 +1,4 @@
-# javascript
- Curso de JavaScript do Curso em Vídeo
-Olá! Aqui está um exemplo de texto que você pode usar para o README do seu repositório do GitHub sobre o curso de JavaScript do Curso em Vídeo:
-
+#Javascript
 # Curso de JavaScript - Curso em Vídeo
 
 Este repositório contém os exercícios e projetos desenvolvidos durante o curso de JavaScript do Curso em Vídeo.
